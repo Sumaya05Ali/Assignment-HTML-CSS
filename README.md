@@ -1,4 +1,4 @@
-# Assignment-HTML-CSS-
+# Assignment-HTML-CSS
 
 # Juneau Vacation Home Website
 
