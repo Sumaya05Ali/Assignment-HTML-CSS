@@ -39,11 +39,11 @@ To get a local copy of this project up and running, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Assignment-HTML-CSS-.git   
+    git clone https://github.com/your-username/Assignment-HTML-CSS.git   
     ```
 2. Navigate to the project folder:
     ```bash
-    cd Assignment-HTML-CSS--main
+    cd Assignment-HTML-CSS-main
 
 
     ```
